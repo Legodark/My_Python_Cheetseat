@@ -1,4 +1,7 @@
-# My_Python_Cheetseat
-This is my repository where i save the tips and references for help to learn Python
+# Python Style CheetSeat
 
-***Clic here to access the cheatseat*** [Colab Notebook](https://gist.github.com/Legodark/a5ef8a12416667a6f1163c866c134d8a)
+**Preview:**
+
+![CheetSeat Preview](/images/CheetSeat_Preview.png)
+
+View in [Figma](https://www.figma.com/proto/sDNrq25Jl6AUdzVNC2aBoo/Python_Style_CheetSeat?node-id=1%3A3&scaling=min-zoom&page-id=0%3A1) ![Figma Logo](https://github.com/Legodark/My_Python_Cheetseat/blob/0320c2bb7747f6615c429bc1fdc69912afbb807e/images/figma%20(1).png) 
